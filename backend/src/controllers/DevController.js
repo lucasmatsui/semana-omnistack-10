@@ -32,8 +32,8 @@ module.exports = {
     };
   
     dev = await Dev.create({
-      github_username,
       name,
+      github_username,
       avatar_url,
       bio,
       techs: techsArray,
