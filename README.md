@@ -1,7 +1,3 @@
-<h1 align="center">
-    <span>DevRadar</span>
-</h1>
-
 <h4 align="center">
   🚀 Semana OmniStack 10.0
 </h4>
